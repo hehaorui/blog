@@ -14,6 +14,11 @@ links:
     description: 新手学电脑，请多多指教
     website: https://blog.cyyself.name/
     image: https://avatars.githubusercontent.com/u/8191303?v=4
+    
+  - title: The blog of Chufan Chen
+    description: Chufan Chen's Homepage 
+    website: https://chufansuki.com/
+    image: https://avatars.githubusercontent.com/u/50797312?v=4
 
 readingTime: false
 license: false
