@@ -23,7 +23,7 @@ menu:
 比较鱿型🦑的窄域标记枪操作者
 ## 联系方式
 ### Email
-<hehaorui-official@outlook.com>
+<mail@hehaorui.com>
 ### Github
 [@hehaorui](https://github.com/hehaorui)（上面基本没啥有价值的项目
 ### 其他联系方式
