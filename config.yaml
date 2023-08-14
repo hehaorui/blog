@@ -73,7 +73,7 @@ params:
         avatar:
             enabled: true
             local: false
-            src: "https://pic.hehaorui.com/web/client/pubshares/4LsqTxGNtRWmVR3pSCd3kA/browse?path=%2Favatar%2Fsquid.jpeg&_=1674575748"
+            src: "https://blogpic.hehaorui.com/avatar.png"
 
     article:
         math: true
@@ -220,7 +220,7 @@ menu:
               icon: brand-github
         - identifier: email
           name: Email
-          url: mailto:hehaorui@outlook.com
+          url: mailto:mail@hehaorui.com
           params:
               icon: mail
 
