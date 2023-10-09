@@ -34,7 +34,7 @@ hasCJKLanguage: true
 enableGitInfo: true
 
 permalinks:
-    posts: /p/:slug/
+    post: /p/:slug/
     page: /:slug/
 
 frontmatter:
